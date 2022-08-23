@@ -1,0 +1,15 @@
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\bin\Debug\net6.0\kontrolnaya_1chetvert.exe
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\bin\Debug\net6.0\kontrolnaya_1chetvert.deps.json
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\bin\Debug\net6.0\kontrolnaya_1chetvert.runtimeconfig.json
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\bin\Debug\net6.0\kontrolnaya_1chetvert.dll
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\bin\Debug\net6.0\kontrolnaya_1chetvert.pdb
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\kontrolnaya_1chetvert.csproj.AssemblyReference.cache
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\kontrolnaya_1chetvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\kontrolnaya_1chetvert.AssemblyInfoInputs.cache
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\kontrolnaya_1chetvert.AssemblyInfo.cs
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\kontrolnaya_1chetvert.csproj.CoreCompileInputs.cache
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\kontrolnaya_1chetvert.dll
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\refint\kontrolnaya_1chetvert.dll
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\kontrolnaya_1chetvert.pdb
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\kontrolnaya_1chetvert.genruntimeconfig.cache
+C:\Users\geras\Desktop\kontrolnaya_1chetvert\obj\Debug\net6.0\ref\kontrolnaya_1chetvert.dll
